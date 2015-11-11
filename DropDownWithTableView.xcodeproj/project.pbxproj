@@ -7,9 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B2DDF6B11BF2EBFA00831812 /* guava-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = B2DDF6B01BF2EBFA00831812 /* guava-icon.png */; settings = {ASSET_TAGS = (); }; };
-		B2DDF6B31BF2ECCA00831812 /* icon-arrow-down-b-128.png in Resources */ = {isa = PBXBuildFile; fileRef = B2DDF6B21BF2ECCA00831812 /* icon-arrow-down-b-128.png */; settings = {ASSET_TAGS = (); }; };
-		B2DDF6B51BF2ED8B00831812 /* icon-arrow-down-b-36.png in Resources */ = {isa = PBXBuildFile; fileRef = B2DDF6B41BF2ED8B00831812 /* icon-arrow-down-b-36.png */; settings = {ASSET_TAGS = (); }; };
+		B2DDF6B71BF31AD700831812 /* icon-arrow-down-b-36.png in Resources */ = {isa = PBXBuildFile; fileRef = B2DDF6B61BF31AD700831812 /* icon-arrow-down-b-36.png */; settings = {ASSET_TAGS = (); }; };
 		B2F573C01BF1E03E003C91C6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B2F573BF1BF1E03E003C91C6 /* main.m */; };
 		B2F573C31BF1E03E003C91C6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B2F573C21BF1E03E003C91C6 /* AppDelegate.m */; };
 		B2F573C61BF1E03E003C91C6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B2F573C51BF1E03E003C91C6 /* ViewController.m */; };
@@ -38,9 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		B2DDF6B01BF2EBFA00831812 /* guava-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "guava-icon.png"; path = "../../../Downloads/guava-icon.png"; sourceTree = "<group>"; };
-		B2DDF6B21BF2ECCA00831812 /* icon-arrow-down-b-128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-arrow-down-b-128.png"; path = "../../../Downloads/icon-arrow-down-b-128.png"; sourceTree = "<group>"; };
-		B2DDF6B41BF2ED8B00831812 /* icon-arrow-down-b-36.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-arrow-down-b-36.png"; path = "../../../Downloads/icon-arrow-down-b-36.png"; sourceTree = "<group>"; };
+		B2DDF6B61BF31AD700831812 /* icon-arrow-down-b-36.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-arrow-down-b-36.png"; sourceTree = "<group>"; };
 		B2F573BB1BF1E03E003C91C6 /* DropDownWithTableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DropDownWithTableView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2F573BF1BF1E03E003C91C6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B2F573C11BF1E03E003C91C6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -123,9 +119,7 @@
 		B2F573BE1BF1E03E003C91C6 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				B2DDF6B41BF2ED8B00831812 /* icon-arrow-down-b-36.png */,
-				B2DDF6B21BF2ECCA00831812 /* icon-arrow-down-b-128.png */,
-				B2DDF6B01BF2EBFA00831812 /* guava-icon.png */,
+				B2DDF6B61BF31AD700831812 /* icon-arrow-down-b-36.png */,
 				B2F573BF1BF1E03E003C91C6 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -255,12 +249,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B2DDF6B51BF2ED8B00831812 /* icon-arrow-down-b-36.png in Resources */,
 				B2F573CE1BF1E03E003C91C6 /* LaunchScreen.storyboard in Resources */,
-				B2DDF6B31BF2ECCA00831812 /* icon-arrow-down-b-128.png in Resources */,
+				B2DDF6B71BF31AD700831812 /* icon-arrow-down-b-36.png in Resources */,
 				B2F573CB1BF1E03E003C91C6 /* Assets.xcassets in Resources */,
 				B2F573C91BF1E03E003C91C6 /* Main.storyboard in Resources */,
-				B2DDF6B11BF2EBFA00831812 /* guava-icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
